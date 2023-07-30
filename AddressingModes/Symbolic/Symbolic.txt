@@ -1,0 +1,7 @@
+In this mode, memory addresses or operands are represented symbolically using labels or names rather 
+than specific numerical values. These labels are defined elsewhere in the program or in an external
+file, and they serve as references to the actual memory locations. During assembly or linking, the 
+symbolic labels are resolved to their corresponding memory addresses, allowing the CPU to fetch data or 
+instructions from the correct locations. Symbolic addressing mode enhances code readability, flexibility, 
+and maintainability as it abstracts the actual memory addresses, enabling easier modifications and portability 
+of code across memory layouts.
