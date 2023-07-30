@@ -1,0 +1,7 @@
+In this mode, the instruction specifies a memory address that contains the actual address of the operand, 
+rather than the operand itself. Instead of directly accessing the data or instruction, the CPU retrieves 
+the memory address from the specified location and then accesses the data or instruction from that address. 
+Indirect addressing is particularly useful when dealing with data structures, arrays, or dynamically changing 
+memory locations, as it allows for more flexible and dynamic memory access. It enables efficient use of memory 
+and simplifies the management of complex data structures, but it can also introduce an extra level of memory 
+access, potentially impacting performance.
