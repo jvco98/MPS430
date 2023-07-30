@@ -1,5 +1,0 @@
-In this mode, the instruction refers to a memory location specified by a register, and it indirectly accesses the data or instruction 
-at that memory address. After accessing the data, the CPU automatically increments the value stored in the register to point to the 
-next sequential memory location. This mode is useful for iterating through arrays or lists in memory as it simplifies sequential 
-access to elements. It can be efficient for processing data structures, but programmers need to be cautious about the autoincrement
-behavior to avoid potential issues like accessing unintended memory locations.
