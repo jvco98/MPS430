@@ -1,0 +1,6 @@
+In this mode, the instruction itself contains the actual data or constant value to be operated upon, rather 
+than referencing a memory location or a register. The value is directly embedded within the instruction, 
+typically in a designated field or as an operand.  Immediate addressing mode is useful for performing operations 
+involving constants or immediate data, and it allows for efficient and compact code, as it eliminates the need to 
+load data from memory or registers. However, it has the limitation that the immediate values are often limited in 
+size, depending on the CPU architecture, and may not accommodate large data sets.
