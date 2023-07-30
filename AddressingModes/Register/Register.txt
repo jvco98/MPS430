@@ -1,0 +1,3 @@
+Register addressing mode is a CPU addressing mode used in computer architecture and assembly language programming. 
+In this mode, the instruction operands are directly specified as registers, which are small, fast-access memory locations within the CPU. 
+Instead of referring to memory addresses, the instructions operate directly on the contents of specified registers.
