@@ -1,0 +1,6 @@
+In this mode, the memory address of the operand is directly specified in the instruction. 
+Instead of using a register or an offset, the instruction contains the exact memory location 
+where the data or instruction resides. Absolute addressing mode allows direct access to specific 
+memory locations, making it useful for accessing fixed memory locations or for interacting with 
+memory-mapped devices. However, it can lead to less flexible code as memory addresses are hardcoded
+into instructions, making it challenging to adapt to changes in memory layout.
